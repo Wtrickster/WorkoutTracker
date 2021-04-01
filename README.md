@@ -39,4 +39,4 @@ https://mrpens-workout-track.herokuapp.com/?id=60653976f90ee900151dd597
 
 # Questions
 
-Questions or issues, contact wtrickster at JSPenland97@gmail.com.
+* Questions or issues, contact wtrickster at JSPenland97@gmail.com.
