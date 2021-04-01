@@ -1,4 +1,6 @@
-var path = require("path");
+const db = require("../Models");
+const path = require('path');
+
 
 // Get Data To Display
 module.exports = function(app){ 
